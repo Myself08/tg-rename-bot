@@ -9,8 +9,8 @@
     "Rename"
   ],
   "success_url": "https://t.me/rename1robot",
-  "website": "https://github.com/No-OnE-Kn0wS-Me",
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/FileRenameBot",
+  "website": "https://github.com/Myself08/tg-rename-bot",
+  "repository": "https://github.com/Myself08/tg-rename-bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
